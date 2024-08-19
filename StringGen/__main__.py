@@ -6,6 +6,7 @@ from pyrogram import idle
 from StringGen import LOGGER, Anony
 from StringGen.modules import ALL_MODULES
 
+python3 -m String-Gen-Bot-ADV
 
 async def anony_boot():
     try:
